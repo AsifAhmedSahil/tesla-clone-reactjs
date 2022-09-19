@@ -41,10 +41,17 @@ const Header = () => {
         <li><a href="#">Existing Inventory</a></li>
         <li><a href="#">Used Inventory</a></li>
         <li><a href="#">Trade in</a></li>
+        <li><a href="#">Test Drive</a></li>
+        <li><a href="#">Insurance</a></li>
         <li><a href="#">CyberTruck</a></li>
         <li><a href="#">Roadaster</a></li>
-        <li><a href="#">Power Light</a></li>
+        <li><a href="#">Power Wall</a></li>
         <li><a href="#">semi</a></li>
+        <li><a href="#">Charging</a></li>
+        <li><a href="#">Commertial Energy</a></li>
+        <li><a href="#">Find Us</a></li>
+        <li><a href="#">Support</a></li>
+        <li><a href="#">Investor Relations</a></li>
 
       </BurgerNav>
     </Container>
